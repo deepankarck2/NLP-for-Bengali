@@ -49,7 +49,6 @@ The models trained here have been used in [Natural Language Toolkit for Indic La
 | Dataset | Dataset size (train, valid, test) | Accuracy | MCC | Notebook to Reproduce results |
 |:--------:|:----:|:----:|:----:|:----:|
 | Bengali News Articles (Soham Articles) | (11284, 1411, 1411) | 90.71 | 87.92 | [Link](https://github.com/goru001/nlp-for-bengali/blob/master/classification/Bengali_Classification_Model.ipynb) |
- 
 
 ##### On using 1% of training set (with Transfer learning)
 
